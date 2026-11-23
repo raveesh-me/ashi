@@ -11,3 +11,7 @@ cargo fmt --all --check
 cargo clippy --all-targets --all-features -- -D warnings
 cargo test --workspace
 ```
+
+## License
+
+License: Apache-2.0
